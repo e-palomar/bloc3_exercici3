@@ -1,2 +1,6 @@
 Monty Python and the Holy Grail
+<<<<<<< HEAD
 Una película des del repo originalUna altra película des del repo original
+=======
+Una película des del repo originalEl sentit de la vida
+>>>>>>> fa1ad88 (Afegir 'El sentit de la vida' al clone)
